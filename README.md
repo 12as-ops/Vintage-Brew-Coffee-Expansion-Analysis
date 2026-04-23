@@ -3,7 +3,7 @@ This project focuses on analyzing city-level data to identify the most suitable 
 
 <img width="1200" height="630" alt="Banner" src="https://github.com/user-attachments/assets/3d270515-f2bc-46de-9a5a-dc49c17a4f6b" />
 
-##This project analyzes:
+## This project analyzes:
 
 Sales data
 Customer distribution
