@@ -1,5 +1,5 @@
 # Brew-Coffee-Expansion-Analysis
-This project focuses on analyzing city-level data to identify the most suitable locations for expanding Velvet Brew’s coffee business. Using SQL and data analysis techniques, the project evaluates key business factors such as customer demand, revenue potential, and cost efficiency.
+This project focuses on analyzing city-level data to identify the most suitable locations for expanding Vintage Brew’s coffee business. Using SQL and data analysis techniques, the project evaluates key business factors such as customer demand, revenue potential, and cost efficiency.
 
 <img width="1200" height="630" alt="Banner" src="https://github.com/user-attachments/assets/3d270515-f2bc-46de-9a5a-dc49c17a4f6b" />
 
